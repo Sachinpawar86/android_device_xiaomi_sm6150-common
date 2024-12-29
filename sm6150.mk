@@ -573,7 +573,3 @@ PRODUCT_CFI_INCLUDE_PATHS += \
 PRODUCT_PACKAGES += \
     firmware_wlan_mac.bin_symlink \
     firmware_WCNSS_qcom_cfg.ini_symlink
-
-# Freeform Multiwindow
-PRODUCT_COPY_FILES += \
-    frameworks/native/data/etc/android.software.freeform_window_management.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.freeform_window_management.xml
