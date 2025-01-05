@@ -418,4 +418,8 @@
     <!-- Pocket Lock -->
     <bool name="config_pocketModeSupported">false</bool>
     <bool name="config_pocketUseLightSensor">false</bool>
+
+    <!--  media controls  -->
+    <bool name="config_mediaControlsRippleByDefault">false</bool>
+    <bool name="config_mediaControlsTurbulenceByDefault">false</bool>
 </resources>
