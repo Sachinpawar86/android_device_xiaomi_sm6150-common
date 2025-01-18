@@ -122,7 +122,6 @@ vendor.display.disable_rotator_downscale=1
 debug.sf.latch_unsignaled=1
 debug.sf.enable_transaction_tracing=false
 debug.sf.treat_170m_as_sRGB=1
-debug.sf.predict_hwc_composition_strategy=0
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
 debug.sdm.support_writeback=0
@@ -151,8 +150,6 @@ vendor.display.disable_ui_3d_tonemap=1
 vendor.display.enable_default_color_mode=1
 vendor.display.enable_null_display=0
 vendor.display.enable_optimize_refresh=1
-vendor.gralloc.disable_ubwc=0
-vendor.gralloc.enable_fb_ubwc=1
 
 # EGL - Blobcache configuration
 ro.egl.blobcache.multifile=true
