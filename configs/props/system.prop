@@ -1,9 +1,6 @@
 # Bluetooth
 vendor.bluetooth.soc=cherokee
 
-# Blur
-ro.surface_flinger.supports_background_blur=0
-
 # Camera
 log.tag.CHIUSECASE=ERROR
 persist.sys.cam.skip_detach_image=true
