@@ -156,6 +156,7 @@ vendor.display.enable_optimize_refresh=1
 vendor.display.enable_perf_hint_large_comp_cycle=1
 vendor.gralloc.disable_ubwc=0
 vendor.gralloc.enable_fb_ubwc=1
+vendor.perf.framepacing.enable=1
 
 # EGL - Blobcache configuration
 ro.egl.blobcache.multifile=true
